@@ -1,3 +1,4 @@
+#![allow(warnings)]
 //! quick-js is a a Rust wrapper for [QuickJS](https://bellard.org/quickjs/), a new Javascript
 //! engine by Fabrice Bellard.
 //!
